@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hi there!
+
+My name is Andrey Melnikov.
+
+👨🏻‍💻 I’m an ML engineer.
+
+📫 How to reach me: [t.me/andmeln](https://t.me/andmeln)
 
 <!--
 **andmeln/andmeln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
